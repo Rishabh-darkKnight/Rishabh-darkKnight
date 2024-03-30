@@ -25,6 +25,4 @@ Hi! 👋<br>I am Rishabh Kumar.<br>I am enthusiastic fresher with highly Motivat
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rishabh-darkKnight&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
