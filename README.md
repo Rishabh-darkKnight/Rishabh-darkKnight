@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋<br>I am Rishabh Kumar.<br>I am enthusiastic fresher with highly Motivated <br>and have leadership skills, having a Bachelor <br>of Engineering degree 🎓 in Computer Science 💻.<br>Eager to learn new Technologies and methodologies.<br><br>I am currently working on <br>Java<br>Data Structures and Algorithm<br>Python<br>Artificial Intelligence / Machine Learning<br>Linux<br>AWS<br>
+Hi! 👋<br>I am Rishabh Kumar.<br>I am enthusiastic fresher with highly Motivated and have leadership skills, having a Bachelor of Engineering degree 🎓 in Computer Science 💻.Eager to learn new Technologies and methodologies.<br> <br> <b>I am currently working on:</b> <br> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white),![DSA](https://img.shields.io/badge/Data_Structure-Algorithm-blue),<br>![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54),![AI/ML](https://img.shields.io/badge/AI-ML-red),![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux),![AWS](https://img.shields.io/badge/AWS-blue)<br>
 
 
 ## 🌐 Socials:
